@@ -92,3 +92,14 @@
         z-index: 1;
     }
 }
+@media only screen and (max-width: 500px){
+    .score {
+        left: 95px;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 500px){
+    .start-screen {
+        width: 58%;
+    }
+}
